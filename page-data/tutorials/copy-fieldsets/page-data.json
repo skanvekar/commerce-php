@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-tutorials-copy-fieldsets-md",
+    "path": "/tutorials/copy-fieldsets/",
+    "result": {"pageContext":{"frontmatter":{"title":"Copy Fieldsets | Commerce PHP Extensions","description":"Follow this tutorial to copy custom data from a quote object to an order object."}}},
+    "staticQueryHashes": ["915530536"]}
