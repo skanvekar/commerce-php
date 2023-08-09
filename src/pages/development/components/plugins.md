@@ -538,8 +538,8 @@ The execution will be in this order:
       *  `Action::dispatch()`
 
    *  `PluginC::aroundDispatch()` (the application calls the second half after `callable`)
-   *  `PluginB::afterDispatch()`
    *  `PluginC::afterDispatch()`
+   *  `PluginB::afterDispatch()`
 
 *  `PluginA::aroundDispatch()` (the application calls the second half after `callable`)
 *  `PluginA::afterDispatch()`
